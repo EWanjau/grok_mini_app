@@ -4,8 +4,6 @@ Know your **gross salary** from your **net salary**. Built for Kenyan employees 
 
 The app estimates gross (and basic, when you add cash allowances) after **PAYE, NSSF, SHIF, and Housing Levy** only. It is not tax or legal advice.
 
-**Live site (after GitHub Pages is enabled):** https://EWanjau.github.io/grok_mini_app/
-
 ## Run locally
 
 ```bash
